@@ -5,3 +5,11 @@ img {
 h1:hover {
    color: red;
 }
+
+img:hover {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+}
